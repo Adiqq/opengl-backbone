@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="cube.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="detailed_cube.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="model.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="sphere.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="teapot.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="torus.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="main_file.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source">
+      <UniqueIdentifier>{41953ee5-8d5c-4d81-9072-e7cabfb0139f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headers">
+      <UniqueIdentifier>{697b39a6-6491-4ed1-849d-9c644cd89ce8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="allmodels.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="constants.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="cube.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="detailed_cube.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="model.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="sphere.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="teapot.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="torus.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
