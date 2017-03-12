@@ -8,5 +8,5 @@ Użyte biblioteki:
 - [glfw-3.2.1](http://www.glfw.org/index.html)
 
 IDE:
-- [Visual Studio 2015 Community](https://www.visualstudio.com/free-developer-offers/)
+- [Visual Studio 2017 Community](https://www.visualstudio.com/pl/thank-you-downloading-visual-studio/?sku=Community&rel=15)
 - [Resharper C++](https://www.jetbrains.com/resharper-cpp/download/) (Darmowe konto dla studentów na podstawie ważnego maila uczelnianego, mocno ułatwia programowanie)
